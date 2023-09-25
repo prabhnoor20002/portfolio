@@ -313,3 +313,7 @@ footer p span{color: #dc3545;}
 .header_area .social-link{text-align: center;margin: 0;}
 .key-list-4{border: none;}
 .img-fluid{width: 100%;}
+footer input{
+  color:#fff;
+}
+footer br{display:none;}
