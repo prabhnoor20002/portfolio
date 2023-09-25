@@ -1,0 +1,46 @@
+@media only screen and (max-width:1337px) {
+
+    .about-mine li{font-size: 14px;}
+}
+@media only screen and (max-width:1200px) {
+    .social-link li{margin: 0px 9px;}
+    .about-me-sec p{font-size: 15px; line-height: 25px;}
+    .service-content h4{font-size: 19px;}
+    .about-me-sec h3{font-size: 23px;}
+    .service-content{margin-left: 10px;}
+    .service-card{min-height: 137px;}
+    .service-icon{width: 50px; height: 50px;}
+    
+}
+@media only screen and (max-width:992px) {
+    .header_area{display: block;}
+    .right-sec{width: 100%;}
+    .left-menu-sec{display: none;}
+    .about-mine li{padding-left: 0;}
+    .key-list-4{border-right: 1px solid #6d6d6d;}
+}
+@media only screen and (max-width:768px) {
+    .nav-header h3{font-size: 20px;}
+    .heading h2{font-size: 70px;}
+    .key-list{border-bottom: 1px solid #6d6d6d; border-right: none;}
+    .service-icon{margin-bottom: 20px;}
+    .service-content{margin-left: 0;}
+    .heading h5{top: 26%;}
+    .banner-sec h2{font-size: 40px;}
+    .text{font-size: 40px;}
+    .heading h2{font-size: 50px;}
+}
+@media only screen and (max-width:578px) {
+    .banner-sec{height: 50vh;}
+    
+    .heading h5{font-size: 20px;}
+}
+@media only screen and (max-width:480px) {
+    .ptb-50{padding: 30px;}
+    .heading h2{font-size: 40px;}
+}
+@media only screen and (max-width:395px) {
+    .heading h2{font-size: 35px;}
+    .nav-header h3{font-size: 18px;}
+    .heading h5{top: 18%;}
+}
