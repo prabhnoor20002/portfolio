@@ -31,6 +31,7 @@
     .heading h2{font-size: 50px;}
 }
 @media only screen and (max-width:578px) {
+    footer br{display:block;}
     .banner-sec{height: 50vh;}
     
     .heading h5{font-size: 20px;}
